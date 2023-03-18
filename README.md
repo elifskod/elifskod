@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elifskod
+- 👋 Hi, I’m @Elif Koç
 - 👀 i am interested in writing code
 - 🌱 I’m currently learning and i am a student
 
